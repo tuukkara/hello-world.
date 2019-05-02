@@ -2,4 +2,4 @@
 
 Hello there!
 
-I'm tuukkara and I came here to learn codeing!
+I'm tuukkara and I came here to learn how to write code!
